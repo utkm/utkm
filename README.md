@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Utkarsh 😄 (he/him), a high school junior who's extremely interested in startups and the evolution of technology! ⚡
+
+I've first started developping in Python 🐍 for a school project but my predilection for programming has grown ever since. Over quarantine, I started learning C++ 🏎 and also  enjoy coding in Java ☕ and JS ⚡️.
