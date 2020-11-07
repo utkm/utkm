@@ -3,7 +3,7 @@
 
 I'm Utkarsh 😄 (he/him), a high school junior who's extremely interested in coding, startups and the evolution of technology! ⚡
 
-I first started developping in Python 🐍 for a school project but my predilection for programming has grown ever since. Over quarantine, I got into competitive programming (mostly for the thrill of solving a challenging problem!) and started learning C++ 🏎 mostly for its speed, especially compared to Python. That being said, I also enjoy coding in JS and (sometimes 😝) Java ☕.
+I first started developing in Python 🐍 for a school project but my predilection for programming has grown ever since. Over quarantine, I got into competitive programming (mostly for the thrill of solving a challenging problem!) and started learning C++ 🏎 mostly for its speed, especially compared to Python. That being said, I also enjoy coding in JS and (sometimes 😝) Java ☕.
 
 <br>
 
